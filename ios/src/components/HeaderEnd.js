@@ -4,7 +4,6 @@ import {
 	View,
 	StyleSheet,
 	Text,
-	Button,
 	TouchableOpacity,
 	Image,
 	Switch
